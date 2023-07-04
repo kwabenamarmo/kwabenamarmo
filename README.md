@@ -36,7 +36,7 @@ Frontend Developer
 * HTML
 * CSS
 * C
-* Shell
+* Shell (Bash)
 * Java Srcipt
 * Bootsrap
 * Tailwind CSS
