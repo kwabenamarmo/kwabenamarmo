@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Ghana, Accra
 * ✉️  You can contact me at [kwabenamarmo1@gmail.com](mailto:kwabenamarmo1@gmail.com)
-* 🧠  I'm learning React 
+* 🧠  I'm a Frontend Software Engineer 
 * 🤝  I'm open to collaborating on creating Beautiful experiences
 
 ### Skills
